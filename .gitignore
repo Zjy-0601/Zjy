@@ -1,0 +1,9 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# Streamlit 本地缓存
+.streamlit/
+
+# 虚拟环境文件夹 (如果使用)
+venv/
